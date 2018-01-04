@@ -1,0 +1,218 @@
+{
+  "project_info": {
+    "project_number": "288881735361",
+    "firebase_url": "https://taproute-168910.firebaseio.com",
+    "project_id": "taproute-168910",
+    "storage_bucket": "taproute-168910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288881735361:android:fd924189f0ebb5b2",
+        "android_client_info": {
+          "package_name": "com.ionicframework.taproute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288881735361-1dhn34jbulkfcks8i3jvrn45ng08euhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicframework.taproute",
+            "certificate_hash": "80e93a74baca556f448651a9f3630d6cb6884ee3"
+          }
+        },
+        {
+          "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAPSFgqGJ1M_VwcphuLm5Cz40nJKtON8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288881735361:android:38a7e98dab36fe0b",
+        "android_client_info": {
+          "package_name": "com.ionicframework.TapRouteDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAPSFgqGJ1M_VwcphuLm5Cz40nJKtON8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288881735361:android:5ef4c2607125eedc",
+        "android_client_info": {
+          "package_name": "com.awesomecorp.sammy.taproutebackauto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288881735361-mmps2ni4ecci5118tg638pjp128vlu48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomecorp.sammy.taproutebackauto",
+            "certificate_hash": "5932190dd7ec0da36d20ef32bc2d5ded48df3be2"
+          }
+        },
+        {
+          "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAPSFgqGJ1M_VwcphuLm5Cz40nJKtON8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288881735361:android:b01128cbcfdbfd6b",
+        "android_client_info": {
+          "package_name": "com.awesomecorp.sammy.taproutedriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288881735361-470hccifdjj7sulma478oq17jfftdbak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomecorp.sammy.taproutedriver",
+            "certificate_hash": "5932190dd7ec0da36d20ef32bc2d5ded48df3be2"
+          }
+        },
+        {
+          "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAPSFgqGJ1M_VwcphuLm5Cz40nJKtON8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288881735361:android:21e4cb9e29b943c4",
+        "android_client_info": {
+          "package_name": "com.awesomecorp.sammy.taproutemetro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288881735361-a808tndn027bmj09qpskt7jr4rjdsklb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomecorp.sammy.taproutemetro",
+            "certificate_hash": "5932190dd7ec0da36d20ef32bc2d5ded48df3be2"
+          }
+        },
+        {
+          "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAPSFgqGJ1M_VwcphuLm5Cz40nJKtON8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288881735361-sch9o4eeuap9dml49a855jleokt2amv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
